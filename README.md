@@ -253,3 +253,4 @@ npm run test:safari
 2. Install browsers: `npx playwright install`
 3. Run tests: `npm run test`
 4. View report: `npm run test:report`
+# Nelly-s-Portfolio
